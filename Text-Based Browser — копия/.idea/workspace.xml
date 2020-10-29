@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8944986d-ea86-4f78-ade9-846336210678" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1adC0rnmmz1Fi6vKOLiGDNtKEKH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.browser">
+    <configuration name="browser" type="PythonConfigurationType" factoryName="Python" activateToolWindowBeforeRun="false" temporary="true" nameIsGenerated="true">
+      <module name="Text-Based Browser" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Text-Based Browser/task/browser" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Text-Based Browser/task/browser/browser.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Text-Based Browser" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../tests" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../tests/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.browser" />
+      <item itemvalue="Python.test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.browser" />
+        <item itemvalue="Python.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8944986d-ea86-4f78-ade9-846336210678" name="Default Changelist" comment="" />
+      <created>1587055864446</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587055864446</updated>
+      <workItem from="1587055908210" duration="240000" />
+      <workItem from="1587056284886" duration="455000" />
+      <workItem from="1587327601179" duration="290000" />
+      <workItem from="1577836956088" duration="144000" />
+      <workItem from="1587768003090" duration="1795000" />
+      <workItem from="1587823622451" duration="95000" />
+      <workItem from="1587851321998" duration="158000" />
+      <workItem from="1594545914305" duration="105000" />
+      <workItem from="1594876745877" duration="66000" />
+      <workItem from="1594987542119" duration="134000" />
+      <workItem from="1599310855064" duration="6428000" />
+      <workItem from="1599686597483" duration="41000" />
+      <workItem from="1599757758639" duration="6150000" />
+      <workItem from="1599828667507" duration="844000" />
+      <workItem from="1599935459422" duration="2756000" />
+      <workItem from="1600281017791" duration="48000" />
+      <workItem from="1602184720840" duration="347000" />
+      <workItem from="1602516499790" duration="2381000" />
+      <workItem from="1602528306020" duration="1265000" />
+      <workItem from="1603296753063" duration="3601000" />
+      <workItem from="1603459915171" duration="14291000" />
+      <workItem from="1603924024350" duration="1352000" />
+      <workItem from="1603958468406" duration="1417000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="240" y="65" key="#Inspections" timestamp="1603899293987">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="240" y="65" key="#Inspections/0.0.1280.800@0.0.1280.800" timestamp="1603899293987" />
+    <state x="104" y="23" width="1071" height="688" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603959938819">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="104" y="23" width="1071" height="688" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.800@0.0.1280.800" timestamp="1603959938819" />
+    <state x="392" y="243" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1603307113678">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="392" y="243" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1280.800@0.0.1280.800" timestamp="1603307113678" />
+    <state x="673" y="238" key="FileChooserDialogImpl" timestamp="1603911958986">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="673" y="238" key="FileChooserDialogImpl/0.0.1280.800@0.0.1280.800" timestamp="1603911958986" />
+    <state x="0" y="0" key="FileDocumentManager.FileCacheConflict" timestamp="1603924079670">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="0" y="0" key="FileDocumentManager.FileCacheConflict/0.0.1280.800@0.0.1280.800" timestamp="1603924079670" />
+    <state width="1238" height="164" key="GridCell.Tab.0.bottom" timestamp="1603921393822">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="164" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1603921393822" />
+    <state width="1238" height="175" key="GridCell.Tab.0.bottom/0.23.1280.710@0.23.1280.710" timestamp="1599770488631" />
+    <state width="1238" height="164" key="GridCell.Tab.0.center" timestamp="1603921393820">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="164" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1603921393820" />
+    <state width="1238" height="175" key="GridCell.Tab.0.center/0.23.1280.710@0.23.1280.710" timestamp="1599770488630" />
+    <state width="1238" height="164" key="GridCell.Tab.0.left" timestamp="1603921393819">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="164" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1603921393819" />
+    <state width="1238" height="175" key="GridCell.Tab.0.left/0.23.1280.710@0.23.1280.710" timestamp="1599770488629" />
+    <state width="1238" height="164" key="GridCell.Tab.0.right" timestamp="1603921393821">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="164" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1603921393821" />
+    <state width="1238" height="175" key="GridCell.Tab.0.right/0.23.1280.710@0.23.1280.710" timestamp="1599770488631" />
+    <state width="1238" height="263" key="GridCell.Tab.1.bottom" timestamp="1599315752792">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="263" key="GridCell.Tab.1.bottom/0.0.1280.800@0.0.1280.800" timestamp="1599315752792" />
+    <state width="1238" height="263" key="GridCell.Tab.1.center" timestamp="1599315752790">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="263" key="GridCell.Tab.1.center/0.0.1280.800@0.0.1280.800" timestamp="1599315752790" />
+    <state width="1238" height="263" key="GridCell.Tab.1.left" timestamp="1599315752790">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="263" key="GridCell.Tab.1.left/0.0.1280.800@0.0.1280.800" timestamp="1599315752790" />
+    <state width="1238" height="263" key="GridCell.Tab.1.right" timestamp="1599315752791">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="263" key="GridCell.Tab.1.right/0.0.1280.800@0.0.1280.800" timestamp="1599315752791" />
+    <state x="149" y="23" key="SettingsEditor" timestamp="1603959954157">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="149" y="23" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1603959954157" />
+    <state x="149" y="23" key="SettingsEditor/0.23.1280.696@0.23.1280.696" timestamp="1603731162315" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Text_Based_Browser$Text_Based_Browser_Parsing.coverage" NAME="Text-Based Browser/Parsing Coverage Results" MODIFIED="1603959532446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/Text_Based_Browser$Text_Based_Browser_Formatted_output.coverage" NAME="Text-Based Browser/Formatted output Coverage Results" MODIFIED="1603959820010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/Text_Based_Browser$Text_Based_Browser_Hotkeys.coverage" NAME="Text-Based Browser/Hotkeys Coverage Results" MODIFIED="1599770573469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/Text_Based_Browser$test.coverage" NAME="test Coverage Results" MODIFIED="1603904981586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../tests" />
+    <SUITE FILE_PATH="coverage/Text_Based_Browser$Text_Based_Browser_Address_line.coverage" NAME="Text-Based Browser/Address line Coverage Results" MODIFIED="1587770387923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/Text_Based_Browser$Text_Based_Browser_Tabs.coverage" NAME="Text-Based Browser/Tabs Coverage Results" MODIFIED="1599319012396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/Text_Based_Browser$Text_Based_Browser_Requesting.coverage" NAME="Text-Based Browser/Requesting Coverage Results" MODIFIED="1602519962206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/Text_Based_Browser$browser.coverage" NAME="browser Coverage Results" MODIFIED="1603958612001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Text-Based Browser/task/browser" />
+  </component>
+</project>
